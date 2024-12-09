@@ -24,7 +24,6 @@ export default function Home() {
     const data = await response.json();
     setRecipes(data.recipes);
     setLoading(false);
-    console.log(data.recipes);
   };
 
   function handleChange(e) {
