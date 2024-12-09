@@ -2,6 +2,7 @@
 
 ## Overview
 
+The Recipe App is a web application that uses the https://dummyjson.com/recipes?limit=100 API to fetch recipes.
 The Recipe App is a web application that allows users to view and search for different recipes. Users can see detailed information about each recipe, including ingredients, instructions, and nutritional information.
 
 ## Features
@@ -48,4 +49,5 @@ The Recipe App is a web application that allows users to view and search for dif
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
 
