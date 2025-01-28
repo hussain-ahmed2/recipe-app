@@ -2,8 +2,7 @@
 
 ## Overview
 
-The Recipe App is a web application that uses the https://dummyjson.com/recipes?limit=100 API to fetch recipes.
-The Recipe App is a web application that allows users to view and search for different recipes. Users can see detailed information about each recipe, including ingredients, instructions, and nutritional information.
+The Recipe App is a web application that uses the https://dummyjson.com/recipes?limit=100 API to fetch recipes. It allows users to view and search for different recipes. Users can see detailed information about each recipe, including ingredients, instructions, and nutritional information.
 
 ## Features
 
@@ -46,8 +45,11 @@ The Recipe App is a web application that allows users to view and search for dif
 - **src/App.jsx:** Main application component.
 - **src/App.css:** Styles for the application.
 
+## Live Demo
+
+The live version of the project can be accessed at: [https://recipe-app-by-hussain.netlify.app/](https://recipe-app-by-hussain.netlify.app/)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
 
